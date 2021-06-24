@@ -1,2 +1,2 @@
 # Gallery
-https://github.com/NazarProton/Gallery/index.js
+https://github.com/NazarProton/Gallery/index.html
